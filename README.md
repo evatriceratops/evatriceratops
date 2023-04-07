@@ -1,3 +1,10 @@
-Madrileña que convive con una gata y que ha vuelto a programar en 2023.
+//Quién soy (Who am I?):
+const nombre = "Eva"; //name
+var ciudad = Madrid; //city
+int edad = 33; //age
 
-Sumergida en el aprendizaje de tecnologías backend: Java, PHP, SQL, Node JS.
+//Qué utilizo (What do I use):
+string tecnologías = "Java, PHP, SQL, Node JS.";
+
+//Qué necesito (My reason to live):
+boolean gata = true;
