@@ -1,5 +1,3 @@
 Madrileña que convive con una gata y que ha vuelto a programar en 2023.
 
-Ahora mismo estoy reaprendiendo las tecnologías necesarias para frontend y aprender bien los fundamentos de programación. Enfocada en JavaScript al mismo tiempo que aprendo React, Java y Python poco a poco.
-
-También estoy muy interesada en aprender a trabajar en backend.
+Sumergida en el aprendizaje de tecnologías backend: Java, PHP, SQL, Node JS.
