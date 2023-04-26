@@ -1,13 +1,8 @@
-## Quién soy (Who am I?):
+## Hola, soy Eva.
 
-const nombre = "Eva"; //name
+Soy traductora profesional y estudiante de programación.
 
-var ciudad = Madrid; //city
-
-int edad = 33; //age
-
-## Qué utilizo (What do I use):
-string tecnologías = "Java, PHP, SQL, Node JS.";
-
-### Qué necesito (My reason to live):
-boolean gata = true;
+### Tecnologías:
+- Java
+- PHP
+- MySQL
