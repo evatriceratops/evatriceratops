@@ -9,5 +9,3 @@ A principios de este año, 2023 retomé mis estudios de programación, pero esta
 ### Tecnologías:
 - Java
 - PHP
-- SQL
-- JavaScript
